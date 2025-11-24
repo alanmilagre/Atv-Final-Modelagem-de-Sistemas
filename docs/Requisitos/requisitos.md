@@ -35,7 +35,7 @@ Requisitos do sistema da escola de idioma Blue Quill Language House
 
 - O sistema deve salvar as atividades realizadas.
 
-- O sistema deve permitir que o aluno visualize os horários disponíveis para as aulas de reposição e selecione um horário.
+- O sistema deve permitir que o aluno visualize os horários disponíveis para as aulas de reposição, selecione um horário e cancele um horário.
 
 - O sistema deve enviar uma notificação sobre a data das reuniões bimestrais.
 
@@ -64,3 +64,8 @@ Requisitos do sistema da escola de idioma Blue Quill Language House
 - O usuário deve estar logado para ter acesso as funcionalidades do sistema.
 
 - Os alunos terão acesso somente as suas próprias informações.
+
+- As aulas de reposição podem ser canceladas com até 2 horas de antecedência.
+
+- As aulas de reposição podem ser reservadas até 5 minutos antes do início da aula.
+
